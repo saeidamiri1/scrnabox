@@ -1,0 +1,13 @@
+Package: scrnaboxR
+Type: Package
+Title: scRNABox package in R
+Version: 0.1.0
+Author: Saeid Amiri
+Maintainer: Saeid Amiri <saeid.amiri1@gmail.com>
+Depends:
+    R (>= 4.2.0)
+Description: This package includes.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+
